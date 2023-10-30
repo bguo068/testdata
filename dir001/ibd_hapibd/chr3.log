@@ -1,0 +1,29 @@
+Copyright (C) 2019-2023 Brian L. Browning
+Enter "java -jar hap-ibd.jar" to print a list of command line arguments
+
+Program            :  hap-ibd.jar  [ version 1.0, 15Jun23.92f ]
+Start Time         :  12:48 PM EDT on 30 Oct 2023
+Max Memory         :  30688 MB
+
+Parameters
+  gt               :  vcf_filt/sel_chr3.vcf.gz
+  map              :  map/chr3.map
+  out              :  ibd_hapibd/chr3
+  min-seed         :  2.0
+  max-gap          :  1000
+  min-extend       :  1.0
+  min-output       :  2.0
+  min-markers      :  100
+  min-mac          :  2
+  nthreads         :  64
+
+Statistics
+  samples          :  500
+  markers          :  2419
+  IBD segments     :  66882
+  IBD segs/sample  :  133.8
+  HBD segments     :  73
+  HBD segs/sample  :  0.146
+
+Wallclock Time:    :  1 second
+End Time           :  12:48 PM EDT on 30 Oct 2023
