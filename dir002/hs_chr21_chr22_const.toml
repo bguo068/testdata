@@ -1,0 +1,10 @@
+name = "hs_chr21_chr22_const"
+chromsize = [46709983, 50818468]
+chromnames = ["chr21", "chr21"]
+gmaps = ["gmap/map_chr21.map", "gmap/map_chr22.map"]
+
+[idx]
+chr21 = 0
+chr22 = 1
+21 = 0
+22 = 1
