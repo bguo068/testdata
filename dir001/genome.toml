@@ -13,9 +13,9 @@ chromnames = [
 ]
 
 gmaps =[
-"testdata/dir001/map/chr1.map",
-"testdata/dir001/map/chr2.map",
-"testdata/dir001/map/chr3.map",
+"map/chr1.map",
+"map/chr2.map",
+"map/chr3.map",
 ] 
 
 # The index values must start from 0 and then increment by 1
